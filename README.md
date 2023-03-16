@@ -27,5 +27,5 @@ Overall, the algorithm performs a binary search in O(log n) time complexity to f
 
 ## LeetCode Problem
 
- - [704 Binary Search](https://leetcode.com/problems/binary-search/?envType=study-plan&id=algorithm-i)
+ - [704 Binary Search](https://leetcode.com/problems/binary-search/)
 
