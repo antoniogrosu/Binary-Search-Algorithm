@@ -1,6 +1,3 @@
-#include <iostream>
-using namespace std;
-
 int binarySearch(int v[10001],int target)
 {
 	bool found = 0;
