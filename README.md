@@ -12,9 +12,7 @@ You must write an algorithm with O(log n) runtime complexity.
 1 <= nums.length <= 104\
 -104 < nums[i], target < 104\
 All the integers in **nums** are unique.\
-nums is sorted in ascending order.\
-
-
+nums is sorted in ascending order.
 
 
 ## Example
