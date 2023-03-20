@@ -16,7 +16,7 @@ You must write an algorithm with O(log n) runtime complexity.
 **Output**: **4**
 
 Explanation: `9 exists in nums and its index is 4`
-## Features
+## Constraints
 
 - 1 <= `nums.length` <= 10^4
 
